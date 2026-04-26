@@ -1,0 +1,11 @@
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.24
+pyarrow>=14.0
+alpaca-py>=0.30.0
+python-dotenv>=1.0
+matplotlib>=3.7
+lxml>=4.9
+requests-cache>=1.2
+requests-ratelimiter>=0.7
+pyrate-limiter>=3.6
